@@ -1,0 +1,13 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+numpy
+tensorflow
+pydantic>=2.9.0,<3.0.0
+python-dotenv
+requests
+psycopg2-binary
+alembic
+aiosqlite
+transformers
+torch
+ollama
